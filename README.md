@@ -9,8 +9,8 @@ I'm Lucas from Canada and I am not exactly the most talented, I dabble in front 
 * 🎥 Video Editing
 * 🐍 Python
 
-![Lucas' github stats](https://github-readme-stats.vercel.app/api?username=stealthbroken&theme=nightowl&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stealthbroken&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+<img src "https://github-readme-stats.vercel.app/api?username=stealthbroken&theme=nightowl&show_icons=true" />
+<img src "https://github-readme-stats.vercel.app/api/top-langs/?username=stealthbroken&theme=nightowl" />
 
 
 
