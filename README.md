@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Lucas
 #### Video Editing and Development
-![Video Editing and Development](https://github.com/Stealthbroken/Stealthbroken/blob/main/altbanner.png)
+![Video Editing and Development](https://github.com/Stealthbroken/Stealthbroken/blob/main/matrixbanner.png)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
