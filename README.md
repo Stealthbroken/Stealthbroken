@@ -10,7 +10,7 @@ I'm Lucas from Canada and I am not exactly the most talented, I dabble in front 
 * 🐍 Python
 
 ![Lucas' github stats](https://github-readme-stats.vercel.app/api?username=stealthbroken&theme=nightowl&show_icons=true)
-[![Lucas' GitHub stats](https://github-readme-stats.vercel.app/api?username=stealthbroken&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+[![Lucas' GitHub stats](https://github-readme-stats.vercel.app/api?username=stealthbroken)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
