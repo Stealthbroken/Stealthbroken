@@ -5,12 +5,12 @@
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 
-I'm Lucas from Canada, I dabble in front end web development and enjoy coding uisng Node.js . I like to use react and node for my projects. I don't really like design but I can handle it quite well. 
-
+I'm Lucas from Canada, I dabble in front end web development and enjoy coding uisng Node.js . I like to use react and node for my projects.
 ### Skills and Experience
 
 * 💻 Node JS
 * 🎥 Video Editing
+* 📷 Photography
 * 🟨 Javascript
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=stealthbroken&theme=nightowl&show_icons=true" />
